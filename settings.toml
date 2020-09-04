@@ -1,0 +1,63 @@
+[default]
+    [default.vok_en]
+        [default.vok_en.gl]
+            a = ['A', 'a']
+            e = ['E', 'e']
+            i = ['I', 'i']
+            o = ['O', 'o']
+            u = ['U', 'u']
+        [default.vok_en.con]
+            b = 'zv'
+            d = 'zv'
+            f = 'gl'
+            j = 'zv'
+            g = 'zv'
+            k = 'gl'
+            l = 'zv'
+            m = 'zv'
+            n = 'zv'
+            p = 'gl'
+            q = 'gl'
+            r = 'ign'
+            v = 'zv'
+            w = 'gl'
+            x = 'gl'
+            y = 'gl'
+            z = 'zv'
+            t = 'gl'
+            s = 'zv'
+            h = 'gl'
+            c = 'gl'
+[default.en_ru]
+        [default.en_ru.single]
+            a = 'э'
+            e = 'э'
+            i = 'и'
+            u = 'у'
+            o = ['о', 'ва']
+            b = 'б'
+            c = 'ц'
+            d = 'д'
+            f = 'ф'
+            g = 'г'
+            h = 'х'
+            j = 'ж'
+            k = 'к'
+            l = 'л'
+            m = 'м'
+            n = 'н'
+            p = 'п'
+            q = 'к'
+            r = 'р'
+            s = 'с'
+            t = 'т'
+            v = 'в'
+            w = 'в'
+            x = 'кс'
+            y = 'й'
+            z = 'з'
+        ee = 'И'
+        ea = 'И'
+        au = 'О'
+
+
